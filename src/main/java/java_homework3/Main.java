@@ -19,7 +19,6 @@ public class Main {
 //
 //        System.out.println("Исходный список: " + list);
 //
-//        // проходим по списку и удаляем целые числа
 //        list.removeIf(str -> {
 //            try {
 //                Integer.parseInt(str);
